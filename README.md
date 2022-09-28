@@ -8,7 +8,7 @@
 
 
 
-#### Connect with me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ankit-yadav-757010182)
+#### Connect with me on https://www.linkedin.com/in/ankit-yadav-757010182
 
 <!--
 **Ankit-yadav09/Ankit-yadav09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
