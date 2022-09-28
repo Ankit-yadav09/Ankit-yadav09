@@ -8,7 +8,7 @@
 
 
 
-#### Connect with me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+#### Connect with me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/ankit-yadav-757010182)
 &nbsp;
 
 <!--
