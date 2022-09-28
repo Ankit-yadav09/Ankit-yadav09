@@ -5,6 +5,12 @@
 
 ## I am < 🅰🅽🅺🅸🆃 />, 
 #### An inspiring Full Stack Web Developer keen to learn new skills and developing myself each and everyday.🌱 
+
+
+
+#### Connect with me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
+
 <!--
 **Ankit-yadav09/Ankit-yadav09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
