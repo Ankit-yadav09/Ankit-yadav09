@@ -1,5 +1,8 @@
-![1Mulesoft](https://user-images.githubusercontent.com/101567851/191064787-1e9953d3-9ae6-4890-bfda-cc762594fc1c.jpg)
+<!-- ![1Mulesoft](https://user-images.githubusercontent.com/101567851/191064787-1e9953d3-9ae6-4890-bfda-cc762594fc1c.jpg) -->
 
+<div align="center">
+  <img src="https://www.softtodo.com/fileadmin/user_upload/gif/91382-web-development.gif" width="600" height="400"/>
+</div>
 
 ### Hi  👋 
 
