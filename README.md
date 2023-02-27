@@ -13,6 +13,7 @@
   <img src="https://www.softtodo.com/fileadmin/user_upload/gif/91382-web-development.gif" width="600" height="400"/>
 </div>
 
+---
 ### 👨‍💻 About Me :
 
 ## I am < 🅰🅽🅺🅸🆃 />, 
@@ -25,6 +26,7 @@
   
 <!--  <img src="https://komarev.com/ghpvc/?username=Ankit-yadav09&style=flat-square&color=blue" alt=""/> -->
 
+---
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ankit-yadav09&theme=dark&background=000000)](https://git.io/streak-stats)
