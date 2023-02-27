@@ -31,6 +31,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ankit-yadav09&theme=dark&background=000000)](https://git.io/streak-stats)
 
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankit-yadav09&show_icons=true&theme=highcontrast)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-yadav09&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
