@@ -1,12 +1,19 @@
 <!-- ![1Mulesoft](https://user-images.githubusercontent.com/101567851/191064787-1e9953d3-9ae6-4890-bfda-cc762594fc1c.jpg) -->
+<!-- <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div> -->
+
+
+<h2 align="center">
+  Hii
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h2>
 
 <div align="center">
   <img src="https://www.softtodo.com/fileadmin/user_upload/gif/91382-web-development.gif" width="600" height="400"/>
 </div>
 
 ### 👨‍💻 About Me :
-
-### Hi  👋 
 
 ## I am < 🅰🅽🅺🅸🆃 />, 
 #### An inspiring Full Stack Web Developer keen to learn new skills and developing myself each and everyday.🌱 
