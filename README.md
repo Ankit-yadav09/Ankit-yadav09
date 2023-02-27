@@ -15,6 +15,8 @@
 <a href="https://www.linkedin.com/in/ankit-yadav-757010182">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  
+<!--  <img src="https://komarev.com/ghpvc/?username=Ankit-yadav09&style=flat-square&color=blue" alt=""/> -->
 
 ### :fire: My Stats :
 
