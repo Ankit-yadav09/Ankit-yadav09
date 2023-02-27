@@ -10,7 +10,7 @@
 </h2>
 
 <div align="center">
-  <img src="https://www.softtodo.com/fileadmin/user_upload/gif/91382-web-development.gif" width="600" height="400"/>
+  <img src="https://www.lambdatest.com/resources/images/news24.gif" width="600" height="300"/>
 </div>
 
 ---
