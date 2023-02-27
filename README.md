@@ -5,8 +5,10 @@
 
 
 <h2 align="center">
-  Hii
+  Hi,
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+   I am < 🅰🅽🅺🅸🆃 />
+  
 </h2>
 
 <div align="center">
@@ -16,7 +18,6 @@
 ---
 ### 👨‍💻 About Me :
 
-## I am < 🅰🅽🅺🅸🆃 />, 
 #### An inspiring Full Stack Web Developer keen to learn new skills and developing myself each and everyday.🌱 
 
 #### Connect with me on 
