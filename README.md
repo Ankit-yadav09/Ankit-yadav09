@@ -21,7 +21,7 @@
 #### An inspiring Full Stack Web Developer keen to learn new skills and developing myself each and everyday.🌱 
 
 #### Connect with me on 
-<a href="https://www.linkedin.com/in/ankit-yadav-757010182">
+<a href="https://www.linkedin.com/in/ankit-yadav09/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
