@@ -39,6 +39,19 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-yadav09&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+### 🧰 Tools :
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript Logo" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="Mongodb Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Guthub Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css3 Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html5 Logo" width="50" height="50"/>
+  </div>
 <!--
 **Ankit-yadav09/Ankit-yadav09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
