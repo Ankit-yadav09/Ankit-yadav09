@@ -18,15 +18,11 @@
 ---
 ### 👨‍💻 About Me :
 
-#### An inspiring Full Stack Web Developer keen to learn new skills and developing myself each and everyday.🌱 
+#### .🌱 
 
-#### Connect with me on 
-<a href="https://www.linkedin.com/in/ankit-yadav09/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   
 #### Know more about me: 
-  <a href="https://ankit-yadav09.github.io/">Portfolio</a>
+
   
 <!--  <img src="https://komarev.com/ghpvc/?username=Ankit-yadav09&style=flat-square&color=blue" alt=""/> -->
 
